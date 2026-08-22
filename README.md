@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/VITE-00BFFF?style=for-the-badge&logo=vite&logoColor=00BFFF&labelColor=0D1117" />
 </p>
 
+
 ---
 
 ## ✈️ About GlobeTrotter
@@ -52,8 +53,10 @@ Travel planning is often a **scattered puzzle**—destinations, cities, activiti
 **GlobeTrotter** turns that scattered puzzle into **one intelligent travel experience**. With **AI-powered recommendations**, it understands what travelers enjoy and helps them discover suitable destinations and activities while bringing **planning, scheduling, budgeting, visualization, and sharing** together in one place. 
 
 > 🌍 **Less planning chaos. More exploring.**
-# 💻 Tech Stack
 
+<video src="https://github.com/user-attachments/assets/028db682-9732-4c20-8712-842789f22cd5" width="450" controls></video>
+
+# 💻 Tech Stack
 ## 🎨 Frontend
 
 <p align="left">
@@ -151,5 +154,7 @@ Travel planning is often a **scattered puzzle**—destinations, cities, activiti
         ┌───────────────────────┐
         │     🗄️ DATABASE       │
         │                       │
+
         │ SQLite                │
         └───────────────────────┘
+<img width="674" height="570" alt="c8d8dfb3-0670-4ffb-a899-b9158a0549a5" src="https://github.com/user-attachments/assets/840e01db-4cda-4457-a4da-580e4ed37083" />
