@@ -43,7 +43,15 @@ Plan multi-city journeys, discover destinations and activities, manage your itin
 | 👤 **Profile** | Manage personal information and preferences |
 
 ---
+## 🎯 Problem & Purpose
 
+### ⚠️ The Challenge
+Travel planning is often a **scattered puzzle**—destinations, cities, activities, schedules, budgets, and preferences are handled separately, making personalized trip planning complex and difficult to manage. 0
+
+### 💡 Our Approach
+**GlobeTrotter** turns that scattered puzzle into **one intelligent travel experience**. With **AI-powered recommendations**, it understands what travelers enjoy and helps them discover suitable destinations and activities while bringing **planning, scheduling, budgeting, visualization, and sharing** together in one place. 1
+
+> 🌍 **Less planning chaos. More exploring.**
 # 💻 Tech Stack
 
 ## 🎨 Frontend
