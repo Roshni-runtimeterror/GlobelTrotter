@@ -1,6 +1,5 @@
 # 🌍 GlobeTrotter
 ### Personalized Travel planning, Simplified
-simple 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=GlobeTrotter+%F0%9F%8C%8D;Plan.+Explore.+Experience." />
 </p>
