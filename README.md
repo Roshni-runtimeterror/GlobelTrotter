@@ -50,19 +50,98 @@ Plan multi-city journeys, discover destinations and activities, manage your itin
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=react" width="55"/>
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
-<img src="https://skillicons.dev/icons?i=vite" width="55"/>
+<img src="https://img.shields.io/badge/React-00BFFF?style=for-the-badge&logo=react&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/HTML5-00BFFF?style=for-the-badge&logo=html5&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/Vite-00BFFF?style=for-the-badge&logo=vite&logoColor=00BFFF&labelColor=080B12" />
 
 </p>
 
-```text
-⚛️ React        → User Interface
-🟨 JavaScript   → Application Logic
-🌐 HTML         → Page Structure
-🎨 CSS          → Styling
-⚡ Vite         → Development & Build Tool
+### Why we use them
 
-b README isn't a CSS glow—the shields.io badges and skillicons.dev icons give you that blue-on-dark tech look similar to your screenshot, while staying easy to use in a README.
+| Technology | Why we use it |
+|---|---|
+| ⚛️ **React** | Builds the interactive user interface and different screens of GlobeTrotter. |
+| 🟨 **JavaScript** | Handles frontend logic, user interactions, trip data and dynamic features. |
+| 🌐 **HTML5** | Provides the basic structure of the application's pages and elements. |
+| 🎨 **CSS3** | Creates the modern, responsive and travel-focused visual design. |
+| ⚡ **Vite** | Provides a fast development environment and builds the React application. |
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Node.js-00BFFF?style=for-the-badge&logo=node.js&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/Express.js-00BFFF?style=for-the-badge&logo=express&logoColor=00BFFF&labelColor=080B12" />
+
+<img src="https://img.shields.io/badge/JavaScript-00BFFF?style=for-the-badge&logo=javascript&logoColor=00BFFF&labelColor=080B12" />
+
+</p>
+
+### Why we use them
+
+| Technology | Why we use it |
+|---|---|
+| 🟢 **Node.js** | Runs the backend JavaScript code and handles server-side operations. |
+| 🚂 **Express.js** | Creates the REST APIs that connect the React frontend with the backend. |
+| 🟨 **JavaScript** | Handles backend logic such as trips, users, activities, budgets and API operations. |
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/SQLite-00BFFF?style=for-the-badge&logo=sqlite&logoColor=00BFFF&labelColor=080B12" />
+
+</p>
+
+### Why we use it
+
+| Technology | Why we use it |
+|---|---|
+| 🗃️ **SQLite** | Stores users, trips, cities, activities, itinerary data and expenses using a relational database. |
+
+---
+
+## 🔗 How Everything Works
+
+```text
+              🌍 GlobeTrotter
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │     🎨 FRONTEND       │
+        │                       │
+        │ React + Vite          │
+        │ JavaScript            │
+        │ HTML + CSS            │
+        └───────────┬───────────┘
+                    │
+                 REST API
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │     ⚙️ BACKEND        │
+        │                       │
+        │ Node.js               │
+        │ Express.js            │
+        │ JavaScript            │
+        └───────────┬───────────┘
+                    │
+                  SQL
+                    │
+                    ▼
+        ┌───────────────────────┐
+        │     🗄️ DATABASE       │
+        │                       │
+        │ SQLite                │
+        └───────────────────────┘
