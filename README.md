@@ -54,10 +54,19 @@ Travel planning is often a **scattered puzzle**—destinations, cities, activiti
 
 > 🌍 **Less planning chaos. More exploring.**
 
-<video src="<img width="400" height="235" alt="WhatsApp Video 2026-08-22 at 15 48 01" src="https://github.com/user-attachments/assets/a155619a-2747-46e0-a140-179ba36157bf" />
-" width="450" controls></video>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/a155619a-2747-46e0-a140-179ba36157bf" width="400">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/ebbea58d-1e39-4980-989e-40e45ada838c" width="400">
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack
+
 ## 🎨 Frontend
 
 <p align="left">
