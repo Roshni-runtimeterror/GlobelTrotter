@@ -167,4 +167,3 @@ Travel planning is often a **scattered puzzle**—destinations, cities, activiti
 
         │ SQLite                │
         └───────────────────────┘
-<img width="674" height="570" alt="c8d8dfb3-0670-4ffb-a899-b9158a0549a5" src="https://github.com/user-attachments/assets/840e01db-4cda-4457-a4da-580e4ed37083" />
