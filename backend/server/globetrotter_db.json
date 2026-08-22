@@ -1,0 +1,200 @@
+{
+  "users": [
+    {
+      "id": "usr-1",
+      "name": "Alex Rivera",
+      "email": "alex.rivera@globetrotter.io",
+      "password": "password123",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Passionate nomad, photography enthusiast, & food explorer. Traveling through incredible India & beyond!",
+      "preferences": [
+        "🏛️ History",
+        "🍜 Foodie",
+        "🌿 Nature",
+        "🏖️ Beaches",
+        "🥾 Hiking"
+      ],
+      "stats": {
+        "countriesVisited": 14,
+        "totalTrips": 22,
+        "budgetSaved": "₹1,45,000",
+        "milesTraveled": "58,400"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "trip-india-1",
+      "userId": "usr-1",
+      "title": "Golden Triangle: Jaipur, Agra & Delhi Heritage",
+      "destinations": [
+        "Jaipur",
+        "Agra",
+        "New Delhi"
+      ],
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-18",
+      "coverPhoto": "https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1000&q=80",
+      "description": "Explore the majestic Taj Mahal, royal Rajasthani palaces, and historic Old Delhi street food.",
+      "status": "upcoming",
+      "targetBudget": 120000,
+      "categoriesBudget": {
+        "transport": 35000,
+        "stay": 45000,
+        "activities": 22000,
+        "meals": 18000
+      },
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Old Delhi Spice Trail & Red Fort",
+          "items": [
+            {
+              "id": "i1",
+              "title": "Express Train from IGI Airport to Hotel",
+              "category": "transport",
+              "cost": 1200,
+              "time": "10:00"
+            },
+            {
+              "id": "i2",
+              "title": "Check-in at Haveli Dharampura Delhi",
+              "category": "stay",
+              "cost": 8500,
+              "time": "12:30"
+            },
+            {
+              "id": "i3",
+              "title": "Chandni Chowk Rickshaw Food Walk & Red Fort",
+              "category": "activities",
+              "cost": 1800,
+              "time": "15:00"
+            },
+            {
+              "id": "i4",
+              "title": "Mughlai Feast at Karim's Jama Masjid",
+              "category": "meals",
+              "cost": 1500,
+              "time": "20:00"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "title": "Agra Expressway & Taj Mahal Sunset View",
+          "items": [
+            {
+              "id": "i5",
+              "title": "Private Car Transfer to Agra via Yamuna Expressway",
+              "category": "transport",
+              "cost": 4200,
+              "time": "07:30"
+            },
+            {
+              "id": "i6",
+              "title": "Mehtab Bagh Sunset Taj Mahal Viewpoint",
+              "category": "activities",
+              "cost": 500,
+              "time": "17:00"
+            },
+            {
+              "id": "i7",
+              "title": "Taj Hotel Agra Stay",
+              "category": "stay",
+              "cost": 7200,
+              "time": "19:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trip-india-2",
+      "userId": "usr-1",
+      "title": "Kerala Backwaters & Munnar Tea Country",
+      "destinations": [
+        "Munnar",
+        "Alleppey",
+        "Kochi"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-27",
+      "coverPhoto": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=1000&q=80",
+      "description": "Serene houseboat cruising, rolling emerald tea estates, and coastal spice gardens.",
+      "status": "upcoming",
+      "targetBudget": 95000,
+      "categoriesBudget": {
+        "transport": 24000,
+        "stay": 42000,
+        "activities": 15000,
+        "meals": 14000
+      },
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Fort Kochi Colonial Heritage & Chinese Fishing Nets",
+          "items": [
+            {
+              "id": "i12",
+              "title": "Kochi Airport Taxi Transfer",
+              "category": "transport",
+              "cost": 1400,
+              "time": "11:00"
+            },
+            {
+              "id": "i13",
+              "title": "Fort Kochi Boutique Heritage Resort",
+              "category": "stay",
+              "cost": 5500,
+              "time": "13:30"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "communityTrips": [
+    {
+      "id": "comm-ind-1",
+      "author": "Rohan Sharma",
+      "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80",
+      "title": "10-Day Royal Rajasthan Heritage & Desert Safari",
+      "destinations": [
+        "Jaipur",
+        "Jodhpur",
+        "Udaipur",
+        "Jaisalmer"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=1000&q=80",
+      "likes": 648,
+      "copies": 215,
+      "days": 10,
+      "estCost": 115000,
+      "tags": [
+        "Palaces",
+        "Desert Safari",
+        "Forts"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Jaipur Pink City Palace & Hawa Mahal",
+          "items": [
+            {
+              "title": "Airport Cab to Heritage Hotel",
+              "category": "transport",
+              "cost": 1200,
+              "time": "10:00"
+            },
+            {
+              "title": "City Palace & Jantar Mantar Observatory",
+              "category": "activities",
+              "cost": 1500,
+              "time": "11:30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
